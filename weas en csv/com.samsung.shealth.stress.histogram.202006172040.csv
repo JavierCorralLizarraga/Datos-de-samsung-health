@@ -1,0 +1,5 @@
+com.samsung.shealth.stress.histogram,6100041,1
+histogram,pkg_name,update_time,create_time,base_hr,datauuid,decay_time,deviceuuid
+4fdcab45-ac45-f33f-96d8-ad1d3453567d.histogram.json,com.sec.android.app.shealth,2020-01-14 19:04:44.085,2019-07-20 15:42:17.298,85747,4fdcab45-ac45-f33f-96d8-ad1d3453567d,1579028684,hytsFLPcD3,
+7464f5ef-1d80-4273-a065-089e57a63d83.histogram.json,com.sec.android.app.shealth,2019-06-05 02:21:04.608,2019-01-10 08:21:22.585,75722,7464f5ef-1d80-4273-a065-089e57a63d83,1559701144,eL5K8TBQJK,
+7547b5f1-9291-14df-5e83-d24b53891fe9.histogram.json,com.sec.android.app.shealth,2020-06-17 22:45:49.219,2020-01-15 03:19:30.126,83925,7547b5f1-9291-14df-5e83-d24b53891fe9,1592430860,hytsFLPcD3,

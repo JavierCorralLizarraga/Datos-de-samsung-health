@@ -1,0 +1,4 @@
+com.samsung.shealth.preferences,6100041,1
+text_value,pkg_name,update_time,create_time,datauuid,blob_value,float_value,long_value,double_value,int_value,deviceuuid
+,com.sec.android.app.shealth,2020-01-14 20:43:10.692,2020-01-14 20:43:17.780,settings.marketing_agreement,,,,,0,jpgso+yMpj,
+,com.sec.android.app.shealth,2020-01-14 23:27:05.929,2020-01-14 23:27:05.929,stress.breath_settings,stress.breath_settings.blob_value.json,0.0,0,0.0,0,hytsFLPcD3,

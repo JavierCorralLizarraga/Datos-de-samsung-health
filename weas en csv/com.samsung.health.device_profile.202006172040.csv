@@ -1,0 +1,7 @@
+com.samsung.health.device_profile,6100041,6
+create_time,providing_step_goal,device_group,step_source_group,device_type,connectivity_type,manufacturer,deviceuuid,pkg_name,capability,update_time,datauuid,name,backsync_step_goal,model,fixed_name
+2020-01-14 20:43:17.723,,360001,,,,Samsung,jpgso+yMpj,com.sec.android.app.shealth,,2020-01-14 20:43:17.723,1e681b1f-699d-0e8f-16f4-8b9e688fc4ef,My Device,,SM-G9600,Galaxy S9,
+2020-01-14 22:05:50.034,,0,,,,Combined,VfS0qUERdZ,com.sec.android.app.shealth,,2020-01-14 22:05:50.034,7af9722c-cd99-07b7-853a-43ce58e819c5,Combined,,Combined,Galaxy S9,
+2020-01-14 22:05:51.299,,0,,,,all_target,Mk66SbFqK1,com.sec.android.app.shealth,,2020-01-14 22:05:51.299,471ca32b-a665-1e9e-7c27-7ac69485dc05,all_target,,all_target,Galaxy S9,
+2019-07-19 19:27:48.644,1,360003,18,10045,,Samsung Electronics,hytsFLPcD3,com.sec.android.app.shealth,2b5c006b-4d2b-23ff-bff5-7e1b664ed061.capability.json,2020-05-31 19:11:09.337,2b5c006b-4d2b-23ff-bff5-7e1b664ed061,Galaxy Watch,1,,Galaxy S8,
+2019-01-10 08:19:36.332,,360001,,,,Samsung,eL5K8TBQJK,com.sec.android.app.shealth,,2019-01-10 08:19:36.332,f10e2766-d00e-3611-5064-0c60818616b9,My Device,,SM-G950F,Galaxy S8,

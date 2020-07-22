@@ -1,0 +1,6 @@
+com.samsung.health.user_profile,6100041,8
+text_value,pkg_name,update_time,create_time,datauuid,blob_value,float_value,long_value,double_value,key,int_value,deviceuuid
+,com.sec.android.app.shealth,2020-04-06 01:21:41.710,2020-01-14 23:27:05.854,00000000-0000-0000-0000-000000000017,00000000-0000-0000-0000-000000000017.step_calibration.json,,,,step_calibration,,hytsFLPcD3,
+,com.sec.android.app.shealth,2020-01-28 19:50:07.642,2020-01-14 22:06:01.381,00000000-0000-0000-0000-000000000016,00000000-0000-0000-0000-000000000016.dashboard_config.json,,,,dashboard_config,,jpgso+yMpj,
+MEX,com.sec.android.app.shealth,2020-01-17 10:47:59.258,2020-01-17 10:47:59.264,00000000-0000-0000-0000-000000000001,,,,,country,,jpgso+yMpj,
+,com.sec.android.app.shealth,2020-06-18 02:06:23.255,2020-06-18 02:06:23.259,00000000-0000-0000-0000-00000000001b,,,,,food_auto_fill,0,jpgso+yMpj,

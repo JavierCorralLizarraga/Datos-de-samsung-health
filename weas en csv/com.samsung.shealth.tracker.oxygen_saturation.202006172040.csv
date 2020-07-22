@@ -1,0 +1,5 @@
+com.samsung.shealth.tracker.oxygen_saturation,6100041,3
+tag_id,source,com.samsung.health.oxygen_saturation.start_time,com.samsung.health.oxygen_saturation.pkg_name,com.samsung.health.oxygen_saturation.update_time,com.samsung.health.oxygen_saturation.create_time,com.samsung.health.oxygen_saturation.time_offset,com.samsung.health.oxygen_saturation.datauuid,com.samsung.health.oxygen_saturation.spo2,com.samsung.health.oxygen_saturation.custom,com.samsung.health.oxygen_saturation.end_time,com.samsung.health.oxygen_saturation.heart_rate,com.samsung.health.oxygen_saturation.comment,com.samsung.health.oxygen_saturation.deviceuuid
+30000,60009,1547488090001,com.sec.android.app.shealth,1547488110067,1547488110067,UTC-0600,ad2a3455-5e1f-4015-90be-10f74f6beee8,100.0,,1547488090001,59.0,,eL5K8TBQJK,
+30000,60009,1554523912221,com.sec.android.app.shealth,1554523940619,1554523940619,UTC-0600,3abf6223-40cb-4002-b98a-5d52d92539d6,98.0,,1554523912221,63.0,,eL5K8TBQJK,
+30000,60009,1547108476903,com.sec.android.app.shealth,1547108507848,1547108507848,UTC-0600,7f066c0c-3620-40c8-afcd-35ca6b32099e,99.0,,1547108476903,63.0,,eL5K8TBQJK,
